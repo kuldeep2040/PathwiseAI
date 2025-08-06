@@ -26,22 +26,8 @@
 - **Frontend**: React, Tailwind CSS  
 - **Backend**: Node.js, Express  
 - **AI Integration**: Gemini Model API  
-- **External API**: YouTube Data API  
 - **Deployment**: Render.com
 
 ---
-
-## 🛠️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/pathwise-ai.git
-cd pathwise-ai
-
-# Install frontend dependencies
-cd client
 npm install
 
-# Install backend dependencies
-cd ../server
-npm install
