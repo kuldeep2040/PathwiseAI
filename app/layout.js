@@ -10,7 +10,7 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AI Career Coach",
+  title: "Pathwise AI",
   description: "",
 };
 
